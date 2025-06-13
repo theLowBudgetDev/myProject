@@ -1,0 +1,38 @@
+{
+    "Mileage": {
+        "lower": 40529.32,
+        "upper": 69333.15
+    },
+    "Reported_Issues": {
+        "lower": 0,
+        "upper": 4
+    },
+    "Vehicle_Age": {
+        "lower": 2,
+        "upper": 8
+    },
+    "Engine_Size": {
+        "lower": 928.61,
+        "upper": 2183.97
+    },
+    "Odometer_Reading": {
+        "lower": 32463.08,
+        "upper": 118639.29
+    },
+    "Insurance_Premium": {
+        "lower": 10241.95,
+        "upper": 24688.73
+    },
+    "Service_History": {
+        "lower": 2,
+        "upper": 8
+    },
+    "Accident_History": {
+        "lower": 0,
+        "upper": 2
+    },
+    "Fuel_Efficiency": {
+        "lower": 12.1,
+        "upper": 17.88
+    }
+}
