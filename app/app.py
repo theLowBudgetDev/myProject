@@ -341,4 +341,4 @@ elif page == "Prediction History":
 
 # Footer
 st.markdown("---")
-st.markdown("Developed by Onah Enrich | Powered by Streamlit | May 2025")
+st.markdown("Developed by Onah Enrich Ugboji | Powered by Streamlit | July 2025")
